@@ -47,3 +47,5 @@ You are to build an imaginary real-time leaderboard system that ranks users base
 <hr />
 
 After finishing this project, you will have a good understanding of how to create a real-time leaderboard system that updates scores in real-time. You will also gain experience working with Redis sorted sets and implementing user authentication and score submission features.
+
+src: https://roadmap.sh/projects/realtime-leaderboard-system
